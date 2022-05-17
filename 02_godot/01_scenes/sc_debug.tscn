@@ -1,0 +1,3 @@
+[gd_scene format=2]
+
+[node name="sc_debug" type="Node2D"]
